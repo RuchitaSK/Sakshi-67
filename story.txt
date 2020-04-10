@@ -1,3 +1,5 @@
 Sakshi and samiksha are sisters.
 Sakshi loves coding and samiksha loves cooking.
 Sakshi likes science.
+Samiksha likes maths.
+Sakshi is best coder.
