@@ -3,3 +3,4 @@ Sakshi loves coding and samiksha loves cooking.
 Sakshi likes science.
 Samiksha likes maths.
 Sakshi is best coder.
+Samiksha is best cook.
